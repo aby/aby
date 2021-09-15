@@ -1,5 +1,5 @@
 
-<!--- [Facemask Detector](https://gyazo.com/4065574808ef0b1f4aeba62431ba0b46)-->
+<!--- (https://gyazo.com/4065574808ef0b1f4aeba62431ba0b46) -->
 
 
 
